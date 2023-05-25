@@ -1,2 +1,2 @@
-# Insert-Update-Delete-dengan-JDBC
-TUGAS 05 - Insert, Update, Delete dengan JDBC
+# Insert-Update-Delete-dengan-DATABASE
+TUGAS 05 - Insert, Update, Delete dengan DATABASE
